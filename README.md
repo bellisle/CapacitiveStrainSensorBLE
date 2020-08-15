@@ -1,3 +1,3 @@
-# Heart Rate Sensor Demo
+# Capacitive Strain Sensor
 
 Available at https://rachbellisle.github.io/CapacitiveStrainSensorBLE/
